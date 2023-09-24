@@ -1,0 +1,15 @@
+Units Converter:=CTRLU
+Meals:=CTRLA
+About:=CTRLA
+Shortcuts:=CTRLA
+Shopping List:=CTRLS
+Preferences:=CTRLA
+Recipe:=CTRLR
+Calorie Calculcator:=CTRLC
+Recipes:=CTRLA
+Nutrition:=CTRLN
+User Guide:=CTRLA
+Exit:=CTRL5
+Process:=CTRLP
+Meal:=CTRLM
+Calorie Calulcator:=CTRLA
